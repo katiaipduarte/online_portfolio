@@ -46,7 +46,7 @@
 ## Model the Data
 
    	--Category--
-      		name:string
+   		name:string
 
 	--Project--
 		title:string
