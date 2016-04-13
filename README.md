@@ -11,6 +11,7 @@
 
 ## Questions
 
+	1. I am building a personal/portfolio site. A place where I cab share examples of my work, and have people contact me.
 
 	2. I am building it for myself. Show potential employers that what I know with real examples.
 
