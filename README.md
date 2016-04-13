@@ -1,4 +1,4 @@
-# Planning my application
+# Planning my online portfolio
 	1. Answer Questions
 		- What am I building?
 		- Who am I building it for?
@@ -6,12 +6,12 @@
 		- What features do I need to have?
 	2. User Stories
 	3. Model the Data
-	4. Think through the pages I need in my app
-   	5. 3rd party gems/packages I need to use in my app
+	4. Think through the pages I need
+   	5. 3rd party gems/packages I need to use
 
 ## Questions
 
-	1. I am building a personal/portfolio site. A place where I cab share examples of my work, and have people contact me.
+	1. I am building a personal/portfolio site. A place where I can share examples of my work, and have people contact me.
 
 	2. I am building it for myself. Show potential employers that what I know with real examples.
 
@@ -66,7 +66,7 @@
 
 	--User--
 
-## The pages I need in my app
+## The pages I need
 
 	- Home
 	- Projects#Index
